@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/responsive-blog-platform-1825-1836/blog_backend"
+}
